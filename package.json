@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Joss220r/P-002_DevWeb.git"
+    "url": "git+https://github.com/arleth999/Parcial2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Joss220r/P-002_DevWeb/issues"
+    "url": "https://github.com/arleth999/Parcial2/issues"
   },
-  "homepage": "https://github.com/Joss220r/P-002_DevWeb#readme",
+  "homepage": "https://github.com/arleth999/Parcial2#readme",
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
